@@ -13,7 +13,6 @@ spring:
     serverName: localhost
     username: sa
     password: password
-
   jpa:
     generate-ddl: true
     show_sql: true
